@@ -1,2 +1,2 @@
 # Inventory_Asset_Tracking_System
-SIA-2 SYSTEM PROJECT
+ITE412_SIA2_Inventory-Asset-Tracking-System _Project
